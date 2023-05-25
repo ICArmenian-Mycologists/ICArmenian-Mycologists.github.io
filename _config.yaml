@@ -1,18 +1,15 @@
 # site properties and page defaults
 title: ICArmenian-Mycologists
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: Hello, we are ICAM. A group of ethnically Armenian mycologists, interested in working with Armenian mycologists and lichenologists.
+header: images/ICAM-icon.jpg
+footer: images/ICAM-icon.jpg
 
 # site social media and other links
 links:
-  email: contact@ICArmenian-Mycologists.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: icarmenian.mycologists@gmail.com
   github: ICArmenian-Mycologists
-  twitter: ICArmenian-Mycologists
-  youtube: ICArmenian-Mycologists
+  twitter: IC_ArmenianMyco
+  instagram: ICArmenian-Mycologists
 
 ### jekyll settings
 
