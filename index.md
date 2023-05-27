@@ -20,7 +20,9 @@ Despite the common assertion to the contrary, science is informed by sociopoliti
 ## Highlights
 
 {% capture text %}
-Our focuses range from saprotrophic fungal diversity, the use of ectomycorrhizal fungi for forest remediation, and Khachkar lichen diversity interests. Please reach out to us if you are interested in collaborating. <br>
+Our research interest ranges from saprotrophic/mycorrhizal fungal diversity, the use of ectomycorrhizal fungi for forest remediation, and Khachkar lichen diersity. 
+Please reach out to us if you are interested in collaborating.
+
 
 {%
   include button.html
