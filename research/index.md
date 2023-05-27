@@ -17,7 +17,7 @@ Project 2: Oak Mycorrhizae: Analysis of fungal community composition on oak spec
 Mycorrhizal fungi grow on and within a host plant’s roots, extending into the soil to absorb nutrients. Additionally, mycorrhizal fungi protect trees from root herbivory, improve disease resistance, and increase drought tolerance. The diversity of these fungi is fundamentally important to host plants, including oak species. This research explores mycorrhizal fungi growing on oaks acclimated in two temperate regions. Holden Arboretum and Yerevan Botanical Garden will collaborate to sample roots from oak species at both gardens to compare their mycorrhizae. We will investigate whether habitat differences select for mycorrhizal fungi at the species level, and if the composition of these fungi differs significantly when the same tree species is acclimated in different temperate climates. Our goal is to contribute to global oak conservation by providing data on tree-fungus interactions, as soil biotic composition may be important to the success of trees in collections outside their native range.
 
 Project 3: Bioinformatics in Armenia
-As technology becomes more complex while also reducing in cost, biologists have been able to access deeper understanding of their systems. Armenia has been leading in the technology front but mycological experts are still behind on working on top notch science due to bioinformatics deficits. 
+As technology becomes more complex while also reducing in cost, biologists have been able to access deeper understanding of their systems. 
 
 Project 4: iNaturalist 
 
