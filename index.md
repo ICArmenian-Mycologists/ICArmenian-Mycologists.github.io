@@ -82,6 +82,8 @@ Project 3: Bioinformatics in Armenia As technology becomes more complex while al
 
 Our team consists of accomplished author, writer, scientist and thinker Dr. Patricia Ononiwu Kaishian, mycorrhizae-whisperer and rock-climbing extraordinaire Claudia Bashian-Victoroff M.Sc., Joshua Tree mycorrhizae and fire fungi expert Arik Joukhajian, and recent Microbiology graduate Dr. Tania Kurbessoian (who specializes in black yeast population genomics).
 
+The International Congress of Armenian Mycologists welcomes people from diverse backgrounds regardless of race, ethinicity, religion, gender identity, gender expression, sexual orientation, political affiliation, national origin, or disability. Our main goal is to uplift the indigenous Armenian peoples in the scientific community.  <br>
+
 <br>
 
 {%
@@ -97,14 +99,11 @@ Our team consists of accomplished author, writer, scientist and thinker Dr. Patr
 
 {%
   include feature.html
-  image="images/Mycology.JPG"
+  image="images/ICAM_group_photo.png"
   link="team"
   title="Our Team"
   text=text
 %}
-
-{% capture text %}
-The International Congress of Armenian Mycologists welcomes people from diverse backgrounds regardless of race, ethinicity, religion, gender identity, gender expression, sexual orientation, political affiliation, national origin, or disability. Our main goal is to uplift the indigenous Armenian peoples in the scientific community.  <br>
 
 {%
   include feature.html
