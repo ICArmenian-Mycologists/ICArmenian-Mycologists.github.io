@@ -59,7 +59,7 @@ Project 3: Bioinformatics in Armenia: Technology becomes more complex while also
 
 {%
   include feature.html
-  image="images/network.jpg"
+  image="images/005.jpg"
   link="projects"
   title="Our Projects"
   flip=true
