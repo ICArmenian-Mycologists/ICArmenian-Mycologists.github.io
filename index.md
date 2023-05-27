@@ -1,7 +1,7 @@
 ---
 ---
 
-# ICArmenian-Mycologists's Website
+# ICArmenian-Mycologists (ICAM)
 
 [**International Congress of Armenian Mycologists**](https://icarmenian-mycologists.github.io/) is a collaborative effort between Armenian mycologists: Tania Kurbessoian Ph.D., Claudia Bashian-Victoroff M.S., Patty Kaishian Ph.D., and Arik Joukhajian. 
 
@@ -14,12 +14,16 @@
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
+  type="docs"
+  link="https://icarmenian-mycologists.github.io/Research"
 %}
+{%
+  include button.html
+  type="github"
+  text="On GitHub"
+  link="https://icarmenian-mycologists.github.io/https://github.com/ICArmenian-Mycologists/ICArmenian-Mycologists.github.io"
+%}
+
 
 {% endcapture %}
 
@@ -34,10 +38,19 @@
 {% capture text %}
 [Research](research) Our focuses range from saprotrophic fungal diversity, the use of ectomycorrhizal fungi for forest remediation, and Khachkar lichen diversity interests. Please reach out to us if you are interested in collaborating. <br>
 
+Project 1: Exploring fungal ecology and biodiversity throughout Armenia; an international collaboration between biologists of Armenian descent Armenia is a small country situated within the biodiversity hotspot of the southern Caucasus Mountains of Western Asia. Armenian ecoregions consist of Caucasus mixed forests and Eastern Anatolian mountain steppes, which the World Wildlife Fund has determined to be “critical and endangered” (World Wildlife Fund). This status indicates that the region’s biodiversity urgently needs both intensive research and protection. This includes fungi, which are severely understudied compared to plants and animals. Millions of species of fungi remain undescribed around the world, and even more questions remain about the intricacies of fungal ecology. Because fungi are understudied worldwide, and Armenia has been home to a low proportion of that research, we aim to describe new fungal species, translate key indigenous ecological descriptions, and accrue data for answering critical ecological and evolutionary questions. All researchers involved in this project are ethnically Armenian and descendents of genocide survivors. As a historically oppressed and colonized country, Armenia and the biodiversity contained within, will benefit tremendously from scientific investment.
+
+Project 2: Oak Mycorrhizae: Analysis of fungal community composition on oak species in collections at the Holden Arboretum (Kirtland, Ohio) and the Yerevan Botanical Garden (Yerevan, Armenia)
+
+Mycorrhizal fungi grow on and within a host plant’s roots, extending into the soil to absorb nutrients. Additionally, mycorrhizal fungi protect trees from root herbivory, improve disease resistance, and increase drought tolerance. The diversity of these fungi is fundamentally important to host plants, including oak species. This research explores mycorrhizal fungi growing on oaks acclimated in two temperate regions. Holden Arboretum and Yerevan Botanical Garden will collaborate to sample roots from oak species at both gardens to compare their mycorrhizae. We will investigate whether habitat differences select for mycorrhizal fungi at the species level, and if the composition of these fungi differs significantly when the same tree species is acclimated in different temperate climates. Our goal is to contribute to global oak conservation by providing data on tree-fungus interactions, as soil biotic composition may be important to the success of trees in collections outside their native range.
+
+Project 3: Bioinformatics in Armenia As technology becomes more complex while also reducing in cost, biologists have been able to access deeper understanding of their systems. Armenia has been leading in the technology front but mycological experts are still behind on working on top notch science due to bioinformatics deficits.
+<br>
+
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -55,15 +68,20 @@
   text=text
 %}
 
+
+{%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 {% capture text %}
 
-Project 1: Exploring fungal ecology and biodiversity throughout Armenia; an international collaboration between biologists of Armenian descent Armenia is a small country situated within the biodiversity hotspot of the southern Caucasus Mountains of Western Asia. Armenian ecoregions consist of Caucasus mixed forests and Eastern Anatolian mountain steppes, which the World Wildlife Fund has determined to be “critical and endangered” (World Wildlife Fund). This status indicates that the region’s biodiversity urgently needs both intensive research and protection. This includes fungi, which are severely understudied compared to plants and animals. Millions of species of fungi remain undescribed around the world, and even more questions remain about the intricacies of fungal ecology. Because fungi are understudied worldwide, and Armenia has been home to a low proportion of that research, we aim to describe new fungal species, translate key indigenous ecological descriptions, and accrue data for answering critical ecological and evolutionary questions. All researchers involved in this project are ethnically Armenian and descendents of genocide survivors. As a historically oppressed and colonized country, Armenia and the biodiversity contained within, will benefit tremendously from scientific investment.
+Our team consists of accomplished author, writer, scientist and thinker Dr. Patricia Ononiwu Kaishian, mycorrhizae-whisperer and rock-climbing extraordinaire Claudia Bashian-Victoroff M.Sc., Joshua Tree mycorrhizae and fire fungi expert Arik Joukhajian, and recent Microbiology graduate Dr. Tania Kurbessoian (who specializes in black yeast population genomics).
 
-Project 2: Oak Mycorrhizae: Analysis of fungal community composition on oak species in collections at the Holden Arboretum (Kirtland, Ohio) and the Yerevan Botanical Garden (Yerevan, Armenia)
-
-Mycorrhizal fungi grow on and within a host plant’s roots, extending into the soil to absorb nutrients. Additionally, mycorrhizal fungi protect trees from root herbivory, improve disease resistance, and increase drought tolerance. The diversity of these fungi is fundamentally important to host plants, including oak species. This research explores mycorrhizal fungi growing on oaks acclimated in two temperate regions. Holden Arboretum and Yerevan Botanical Garden will collaborate to sample roots from oak species at both gardens to compare their mycorrhizae. We will investigate whether habitat differences select for mycorrhizal fungi at the species level, and if the composition of these fungi differs significantly when the same tree species is acclimated in different temperate climates. Our goal is to contribute to global oak conservation by providing data on tree-fungus interactions, as soil biotic composition may be important to the success of trees in collections outside their native range.
-
-Project 3: Bioinformatics in Armenia As technology becomes more complex while also reducing in cost, biologists have been able to access deeper understanding of their systems. Armenia has been leading in the technology front but mycological experts are still behind on working on top notch science due to bioinformatics deficits.
 <br>
 
 {%
@@ -97,8 +115,6 @@ The International Congress of Armenian Mycologists welcomes people from diverse 
 %}
 {% endcapture %}
 
-<!-- section break --> 
-
 {% capture text %}
 ## Our Mission
 
@@ -113,6 +129,8 @@ We seek to build science capacity in Armenia by: collaborating with the nation�
 
 Despite the common assertion to the contrary, science is informed by sociopolitical forces. ICAM recognizes and affirms the positive relationship between indigenous sovereignty and biological diversity in Armenia and beyond, and stands in solidarity with all indigenous social justice  efforts around the world. 
 {% endcapture %}
+
+<!-- section break --> 
 
  <!-- ******DONATE****** -->
  <section id="donate" class="donate section text-center">
