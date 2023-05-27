@@ -7,7 +7,7 @@ role: student
 group: current
 image: images/members/Arsen_photo.jpg
 website: https://www.linkedin.com/in/arsen-gasparyan-85328615
-email: tkurb001@ucr.edu
+email: gasparyan.arsen@yahoo.com>
 google: 4M5VAMUAAAAJ
 ---
 
