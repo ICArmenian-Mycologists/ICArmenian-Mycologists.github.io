@@ -18,8 +18,6 @@ nav:
 
 {% include centerer.html html=html %}
 
-## <i class="fas fa-newspaper"></i>Blog
-
 {% include blog-list.html %}
 
 {% include section.html %}
