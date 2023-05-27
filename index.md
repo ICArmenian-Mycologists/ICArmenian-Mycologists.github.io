@@ -25,7 +25,7 @@
 
 {%
   include feature.html
-  image="images/ICAM-icon.png"
+  image="icons/ICAM-icon.png"
   link="research"
   title="Our Research"
   text=text
