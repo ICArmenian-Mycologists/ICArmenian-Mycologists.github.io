@@ -7,9 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+[**International Congress of Armenian Mycologists**](https://ICArmenian-Mycologists.github.io/lab-website-template/) are a group of mycologists located in the United States. Please contact us if you would like to collaborate!
+
+## Email
+
+[icarmenian.mycologists@gmail.com](icarmenian.mycologists@gmail.com)
 
 {%
   include button.html
