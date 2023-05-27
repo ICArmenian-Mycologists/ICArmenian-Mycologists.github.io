@@ -96,8 +96,7 @@ The International Congress of Armenian Mycologists welcomes people from diverse 
 <!-- section break -->
 
 {% capture text %}
-## Our Mission
-
+ <!-- ******OUR MISSION****** -->
 International Congress of Armenian Mycologists Mission Statement
 
 
