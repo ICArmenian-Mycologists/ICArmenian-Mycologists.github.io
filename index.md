@@ -5,7 +5,7 @@
 
 [**International Congress of Armenian Mycologists**](https://icarmenian-mycologists.github.io/) is a collaborative effort between Armenian mycologists: Tania Kurbessoian Ph.D., Claudia Bashian-Victoroff M.S., Patty Kaishian Ph.D., and Arik Joukhajian. 
 
-ICAM Mission Statement
+## ICAM Mission Statement
 
 The International Congress of Armenian Mycologists (ICAM) is a network of research scientists of Armenian ethnicity. Our diverse research backgrounds on various aspects of fungal biology are allied in the mission of biological, ecological, and social welfare of all Armenian life forms. As an organization we strive to conduct critical scientific research on the understudied fungal kingdom in the both ancient yet contemporary civilization of Armenia.   
 
