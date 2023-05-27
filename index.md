@@ -47,11 +47,13 @@ Our focuses range from saprotrophic fungal diversity, the use of ectomycorrhizal
 {% capture text %}
 We currently have three fungal projects involving our American and Armenian teams:
 
-Project 1: Exploring fungal ecology and biodiversity throughout Armenia; an international collaboration between biologists of Armenian descent Armenia is a small country situated within the biodiversity hotspot of the southern Caucasus Mountains of Western Asia. Armenian ecoregions consist of Caucasus mixed forests and Eastern Anatolian mountain steppes, which the World Wildlife Fund has determined to be “critical and endangered” (World Wildlife Fund). This status indicates that the region’s biodiversity urgently needs both intensive research and protection. This includes fungi, which are severely understudied compared to plants and animals. Millions of species of fungi remain undescribed around the world, and even more questions remain about the intricacies of fungal ecology. Because fungi are understudied worldwide, and Armenia has been home to a low proportion of that research, we aim to describe new fungal species, translate key indigenous ecological descriptions, and accrue data for answering critical ecological and evolutionary questions. All researchers involved in this project are ethnically Armenian and descendents of genocide survivors. As a historically oppressed and colonized country, Armenia and the biodiversity contained within, will benefit tremendously from scientific investment.
+Project 1: Exploring fungal ecology and biodiversity throughout Armenia.
 
-Project 2: Oak Mycorrhizae: Analysis of fungal community composition on oak species in collections at the Holden Arboretum (Kirtland, Ohio) and the Yerevan Botanical Garden (Yerevan, Armenia) Funded through Holden's Arboretum fellowship.
+Project 2: Oak Mycorrhizae, Composition of fungal partners comparing Kirtland, Ohio and Yerevan, Armenia.
 
-Project 3: Bioinformatics in Armenia: Technology becomes more complex while also reducing in cost, biologists have been able to access deeper understanding of their systems.
+Project 3: Khatchkar lichen biodiversity in Armenia.
+
+Project 4: Bioinfromatics in Armenia.
 <br>
 
 {%
