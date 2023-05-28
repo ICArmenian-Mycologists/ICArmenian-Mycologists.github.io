@@ -1,5 +1,6 @@
 ---
 title: Tania Kurbessoian Ph.D.
+name: Tania Kurbessoian Gedjeyan, Ph.D.
 search:
   - T. Kurbessoian
   - T Kurbessoian
