@@ -1,5 +1,6 @@
 ---
 title: Arik Joukhajian
+name: Arik Joukhajian
 search:
   - A. Joukhajian
   - A Joukhajian
