@@ -1,5 +1,6 @@
 ---
 title: Claudia Bashian-Victoroff
+name: Claudia Bashian-Victoroff, M. Sc.
 search:
   - C. Victoroff
   - C Victoroff
