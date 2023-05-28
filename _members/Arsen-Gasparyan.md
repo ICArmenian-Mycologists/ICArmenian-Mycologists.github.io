@@ -1,5 +1,6 @@
 ---
 title: Arsen Gasparyan Ph.D.
+name: Arsen Gasparyan, Ph.D.
 search:
   - A. Gasparyan
   - A Gasparyan
