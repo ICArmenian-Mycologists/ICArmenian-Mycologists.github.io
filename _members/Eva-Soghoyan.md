@@ -1,5 +1,6 @@
 ---
 title: Eva Soghoyan Ph.D.
+name: Eva Soghoyan, Ph.D.
 search:
   - E. Soghoyan
   - E Soghoyan
