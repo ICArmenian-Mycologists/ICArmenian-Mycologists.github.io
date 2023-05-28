@@ -1,5 +1,6 @@
 ---
 title: Raz Sargsyan
+name: Raz Sargsyan
 search:
   - R. Sargsyan
   - R Sargsyan
