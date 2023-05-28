@@ -1,5 +1,6 @@
 ---
-title: Patricia Kaishian
+title: Patricia Ononiwu Kaishian, Ph.D.
+name: Patricia Ononiwu Kaishian, Ph.D.
 search:
   - P. Kaishian
   - P Kaishian
