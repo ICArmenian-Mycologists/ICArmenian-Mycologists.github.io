@@ -17,8 +17,23 @@ Check out the before and after photos of the lab space.
 {%
   include figure.html
   image="images/Build1.png"
+  height="100%"
+%}
+
+{%
+  include figure.html
   image="images/Build2.png"
+  height="100%"
+%}
+
+{%
+  include figure.html
   image="images/Build3.png"
+  height="100%"
+%}
+
+{%
+  include figure.html
   image="images/Build4.png"
   height="100%"
 %}
